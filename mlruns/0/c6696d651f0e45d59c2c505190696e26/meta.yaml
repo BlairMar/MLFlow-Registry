@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/blair_bbkduqz/Desktop/My%20Projects/Testing/MLRegistry/mlruns/0/c6696d651f0e45d59c2c505190696e26/artifacts
+end_time: 1627417798298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c6696d651f0e45d59c2c505190696e26
+run_uuid: c6696d651f0e45d59c2c505190696e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627417790657
+status: 4
+tags: []
+user_id: blair_bbkduqz
